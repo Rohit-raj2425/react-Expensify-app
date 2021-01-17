@@ -1,4 +1,3 @@
-import { start } from 'live-server';
 import expencesReducer from '../../reducers/expenses';
 import expenses from '../fixtures/expenses';
 
